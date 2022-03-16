@@ -1,0 +1,19 @@
+{
+    "name": "Cache-ching",
+    "short_name": "money",
+    "description": "An app for tracking your budget on the go",
+    "background_color": "#019b93",
+    "theme_color": "##545391",
+    "icons": [
+        {
+            "src": "Develop/public/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "Develop/public/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
