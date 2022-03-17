@@ -1,5 +1,5 @@
 const express = require("express");
-const morgan = require("morgan");
+const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
@@ -8,7 +8,7 @@ const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/budget";
 
 const app = express();
 
-app.use(morgan("dev"));
+app.use(logger("dev"));
 
 app.use(compression());
 app.use(express.urlencoded({ extended: true }));
