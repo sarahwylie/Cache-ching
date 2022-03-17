@@ -3,7 +3,7 @@
 ## Description
 Do you often forget how much money you've spent as you're traveling, but your bank app requires internet that you don't have at that crucial moment because, well, you're traveling? Take a load off by tracking your own budget so you can see a running balance as money flows in and out. The offline capabilities allow you to get accurate, up-to-moment budget snapshots which are then stored at your next web access point. Traveling is stressful, your money shouldn't be.
 
-This app was created by Trilogy Education Services, a 2U, Inc. brand, and SarahWylie improved the performance.
+This app was created by Trilogy Education Services, a 2U, Inc. brand, and SarahWylie improved the performance by adding offline capabilities and making this into a PWA.
 
 ## Table of Contents
 * [Usage](#usage)
