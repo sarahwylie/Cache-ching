@@ -13,10 +13,10 @@ This app was created by Trilogy Education Services, a 2U, Inc. brand, and SarahW
 * [Queries](#any-questions)
 
 ## Usage
-Log all your purchases and expenses into the [Cache-ching](https://sarahwylie.github.io/Cache-ching/) app, then watch as your running balance flows up and down over time. You can track your spending habits and plan ahead for those down periods. 
+Log all your purchases and expenses into the [Cache-ching](https://cache-ching.herokuapp.com/) app, then watch as your running balance flows up and down over time. You can track your spending habits and plan ahead for those down periods. 
 
 ## Installation
-Visit the [Cache-ching](https://sarahwylie.github.io/Cache-ching/) app and discover how easy it can be to be your own CPA!
+Visit the [Cache-ching](https://cache-ching.herokuapp.com/) app and discover how easy it can be to be your own CPA!
 
 ## Output:
 ![Screenshot](./Screenshot.png)
