@@ -19,7 +19,7 @@ Log all your purchases and expenses into the [Cache-ching](https://sarahwylie.gi
 Visit the [Cache-ching](https://sarahwylie.github.io/Cache-ching/) app and discover how easy it can be to be your own CPA!
 
 ## Output:
-Th
+![Screenshot](./Screenshot.png)
 
 ## Tests
 No tests were used to create this project.
