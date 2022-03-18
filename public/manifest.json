@@ -3,7 +3,7 @@
     "short_name": "money",
     "description": "An app for tracking your budget on the go",
     "background_color": "#019b93",
-    "theme_color": "##545391",
+    "theme_color": "#545391",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
